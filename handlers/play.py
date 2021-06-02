@@ -491,7 +491,7 @@ async def play(_, message: Message):
                 [
                    InlineKeyboardButton(
                        text="⭐ Support ⭐",
-                       url='https://t.me/PikachuX_Support')
+                       url='https://t.me/the_evil_network')
                 ],
                 [       
                     InlineKeyboardButton(
@@ -623,7 +623,7 @@ async def deezer(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="⭐ Support ⭐",
-                   url='https://t.me/PikachuX_Support')
+                   url='https://t.me/the_evil_network')
              ],
              [       
                  InlineKeyboardButton(
@@ -756,7 +756,7 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="⭐ Support ⭐",
-                   url='https://t.me/PikachuX_Support')
+                   url='https://t.me/the_evil_network')
              ],
              [       
                InlineKeyboardButton(
