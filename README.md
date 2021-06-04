@@ -1,5 +1,5 @@
 # pikachuMusic TELEGRAM VC MUSIC BOT 
-[![pikachuMusic logo](https://telegra.ph/file/41871555394988009d3ca.jpg)](https://t.me/W2HSupport)
+[![pikachuMusic logo](https://telegra.ph/file/ace19c111cb80565829a2.jpg)](https://t.me/PikachuX_Support)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
